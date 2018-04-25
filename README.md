@@ -1,1 +1,1 @@
-# Hubspot SES
+# AWS SES Email Tracking for Hubspot
